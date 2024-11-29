@@ -1,7 +1,0 @@
-/node_modules
-/zip
-/model
-/asclepius
-package-lock.json
-.env
-.gitignore
